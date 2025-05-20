@@ -26,17 +26,12 @@ int max_of_four(int n1, int n2, int n3, int n4) {
 
 int main() {
     int n1, n2, n3, n4, greater;
-
     printf("Enter four integers: ");
     scanf("%d %d %d %d", &n1, &n2, &n3, &n4);
-
     greater = max_of_four(n1, n2, n3, n4);
-
     printf("The greatest number is: %d\n", greater);
-
     return 0;
 }
-
 ```
 ## Output:
 ![Screenshot 2025-05-20 125658](https://github.com/user-attachments/assets/a1699ee0-314f-4f2c-8af5-ee4c3c79b172)
