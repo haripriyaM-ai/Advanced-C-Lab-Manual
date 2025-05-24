@@ -218,7 +218,7 @@ Thus, the program prints the sum of the integers in the array is verified succes
 
 
  
-# EXP NO 25: C PROGRAM TO COUNT THE NUMBER OF WORDS IN A      SENTENCE
+# EXP NO 25: C PROGRAM TO COUNT THE NUMBER OF WORDS IN A SENTENCE
 
 
 
